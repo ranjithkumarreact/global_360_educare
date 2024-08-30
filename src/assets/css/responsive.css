@@ -1,0 +1,379 @@
+@media (min-width:992px) {
+    .mobile-header {
+        display: none;
+    }
+
+    .categorie-product h5 {
+        display: none;
+    }
+}
+
+@media (max-width:385px) {
+    .product-add-cart-t button {
+        margin-top: 20px;
+
+    }
+}
+
+@media (max-width:454px) {
+    .product-intro .react-tabs__tab {
+        margin-bottom: 20px;
+
+    }
+
+    .product-intro ul {
+        display: block !important;
+        text-align: center;
+
+    }
+}
+
+@media (max-width:991px) {
+
+    .account-table-main {
+        overflow-x: scroll;
+    }
+    
+    .account-table {
+        min-width: 1200px;
+    }
+
+    .profile-img {
+        width: 100px;
+    }
+
+    .categorie-product h5 {
+        margin-bottom: 20px !important;
+        text-align: center;
+    }
+
+    .popular-product-title h5 {
+        display: none;
+
+    }
+
+    [class*="product-search-"] .form-inline button {
+        background-color: #156390;
+        right: 0;
+        left: unset;
+        position: static;
+        padding: 13px 20px;
+    }
+
+    [class*="product-search-"] .form-inline {
+        padding-right: 0;
+    }
+
+    .mobile-header-search .form-control {
+        border: none;
+    }
+
+    .categorie-product h5::before {
+        left: unset;
+        width: 200px;
+    }
+}
+
+
+@media (min-width: 480px) and (max-width: 575px) {
+    .custom-class-127 .banner-content {
+        top: 25%;
+    }
+
+    .custom-class-128 .banner-content {
+        bottom: 25%;
+    }
+
+    .custom-class-130 .banner-content {
+        top: 25%;
+    }
+
+    .custom-class-131 .banner-content {
+        bottom: 25%;
+
+    }
+
+
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .custom-class-127 .banner-content {
+        top: 25%;
+
+    }
+
+    .custom-class-128 .banner-content {
+        bottom: 25%;
+    }
+
+    .custom-class-130 .banner-content {
+        top: 25%;
+
+    }
+
+    .custom-class-131 .banner-content {
+        bottom: 25%;
+
+    }
+
+
+    .mobile-top-icons {
+        display: none;
+    }
+
+    [class*="product-search-"] .form-inline button {
+        padding: 8px 20px !important;
+    }
+
+    .custom-class-130 .banner-content {
+        text-align: left;
+    }
+
+    .custom-class-130 .banner-content .title {
+        margin-left: unset;
+    }
+
+    .slider-banner-main .banner-content p {
+        display: none;
+
+    }
+
+    .custom-class-131 .banner-content {
+        text-align: left;
+    }
+
+    .custom-class-131 .banner-content .title {
+        margin-left: unset;
+
+    }
+
+    .banner-content h4 a {
+        color: #000 !important;
+
+    }
+
+    .banner-section .banner-wrapper .banner-content p {
+        color: #a6b4b4;
+
+    }
+
+    .slider-btn {
+        padding: 0 5px;
+    }
+
+    .banner-section .pb-5 {
+        padding-bottom: unset !important;
+    }
+
+    .banner-carosel-main .item .banner-content {
+        width: 80%;
+    }
+
+    .new-arrival-home .top-cont .btn {
+        margin-bottom: 20px;
+
+    }
+
+
+    .material-sec-img img {
+        width: 100px;
+
+    }
+
+    .material-sec-img {
+        text-align: center;
+    }
+
+    .coustom-categories-banner-2 .product-info {
+
+        margin-left: 0;
+
+    }
+
+    .home-topcategory .react-tabs__tab {
+        margin: 10px 0px;
+    }
+
+    .brand-slider button {
+        display: none;
+
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    [class*="product-search-"] .form-inline button {
+        padding: 13px 20px !important;
+    }
+
+    .custom-class-130 .banner-content {
+        text-align: left;
+    }
+
+    .custom-class-130 .banner-content .title {
+        margin-left: unset;
+    }
+
+
+    .custom-class-131 .banner-content {
+        text-align: left;
+    }
+
+    .custom-class-131 .banner-content .title {
+        margin-left: unset;
+
+    }
+
+    .banner-content h4 a {
+        color: #000 !important;
+
+    }
+
+    .banner-section .banner-wrapper .banner-content p {
+        color: #a6b4b4;
+
+    }
+
+
+    .slider-btn {
+        padding: 0 5px;
+    }
+
+    .banner-section .pb-5 {
+        padding-bottom: unset !important;
+    }
+
+    .banner-carosel-main .item .banner-content {
+        width: 80%;
+    }
+
+    .new-arrival-home .top-cont .btn {
+        margin-bottom: 20px;
+    }
+
+    .material-sec-img img {
+        width: 100px;
+    }
+
+    .material-sec-img {
+        text-align: center;
+    }
+
+    .coustom-categories-banner-2 .product-info {
+        margin-left: 0;
+    }
+
+    .home-topcategory .react-tabs__tab {
+        margin: 10px 0px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .account-table-main {
+        overflow-x: scroll;
+        padding-left: 10px;
+    }
+    
+    .account-table {
+        min-width: 900px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 11px !important;
+    }
+
+    .banner-carosel-main .item .banner-content {
+        width: 68%;
+    }
+}
+
+@media (max-width: 575px) {
+
+    .account-details {
+        padding: 10px 15px;
+    }
+
+    .mobile-top-icons {
+        display: none;
+    }
+
+    [class*="product-search-"] .form-inline button {
+        padding: 8px 20px !important;
+    }
+
+    .custom-class-130 .banner-content {
+        text-align: left;
+    }
+
+    .custom-class-130 .banner-content .title {
+        margin-left: unset;
+    }
+
+    .slider-banner-main .banner-content p {
+        display: none;
+
+    }
+
+    .custom-class-131 .banner-content {
+        text-align: left;
+    }
+
+    .custom-class-131 .banner-content .title {
+        margin-left: unset;
+
+    }
+
+    .banner-content h4 a {
+        color: #000 !important;
+
+    }
+
+    .banner-section .banner-wrapper .banner-content p {
+        color: #a6b4b4;
+
+    }
+
+    .slider-btn {
+        padding: 0 5px;
+    }
+
+    .banner-section .pb-5 {
+        padding-bottom: unset !important;
+    }
+
+    .banner-carosel-main .item .banner-content {
+        width: 80%;
+    }
+
+    .new-arrival-home .top-cont .btn {
+        margin-bottom: 20px;
+
+    }
+
+
+    .material-sec-img img {
+        width: 100px;
+
+    }
+
+    .material-sec-img {
+        text-align: center;
+    }
+
+    .coustom-categories-banner-2 .product-info {
+
+        margin-left: 0;
+
+    }
+
+    .home-topcategory .react-tabs__tab {
+        margin: 10px 0px;
+    }
+
+    .brand-slider button {
+        display: none;
+
+    }
+}
